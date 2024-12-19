@@ -53,6 +53,6 @@ Data Analysis: Used various statistical methods to get valuable insights from th
 -	Which departments have the highest attrition rates?
 -	Which age group experiences the highest attrition, and what is the average age of employees leaving the organization?
   
-  ![HR Attrition dashboard using Excel](HR.PNG)
+  ![HR Attrition dashboard using Excel](1.PNG)
   
   
